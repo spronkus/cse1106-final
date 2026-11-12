@@ -1,0 +1,5 @@
+// 1) Helping out figuring where to place the pins, fixing code issues like syntax errors or typos, and installing the missing wiringPi.h header in the /tmp/ directory.
+// 2) Figuring out where the pins were supposed to be placed on the circuit board, and figuring out which side was positive or negative or the register bc they were so tiny.
+// 3) We tried to compile it every time, each time it would display an error, and we'd look into it. Then run it again to see if there were more errors, until there were none and it compiled successfully.
+// 4) How to compile, start, run programs on a raspberry pi or simply installing it to get it up and running.
+// 5) I would like to learn about more use cases for the raspberry pi like lighting up a small LED board to make custom art with lit up pixels rather than just figuring out how to light up one light.
